@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "193975353198",
+    "project_id": "flintandsteel-ecommerceapp",
+    "storage_bucket": "flintandsteel-ecommerceapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193975353198:android:5e25bacdc1d0b016c30b7f",
+        "android_client_info": {
+          "package_name": "com.example.phonewallpapers_ecommerceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193975353198-h89ttf0emijtvgnfh9g8dpcpckam8ojk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.phonewallpapers_ecommerceapp",
+            "certificate_hash": "88e1391b588b18bb12050b9533f9be5117ae1d46"
+          }
+        },
+        {
+          "client_id": "193975353198-eul68er24s7k3ercdratuvppqbdas6sn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJJY6O2cPSGgMGjFNzZ6IEzhCLWutxo_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193975353198-eul68er24s7k3ercdratuvppqbdas6sn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
